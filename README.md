@@ -34,7 +34,7 @@ Here's what’s planned for future updates:
 ---
 ## 🎥 Demo Video  
 
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.linkedin.com/your-video-link](https://www.linkedin.com/posts/dopramo_flutter-dart-mobileapp-activity-7285310761743069185-asss?utm_source=social_share_sheet&utm_medium=member_desktop_web))
+[![Watch the demo](https://www.linkedin.com/your-video-link](https://www.linkedin.com/posts/dopramo_flutter-dart-mobileapp-activity-7285310761743069185-asss?utm_source=social_share_sheet&utm_medium=member_desktop_web))
 
 ---
 
